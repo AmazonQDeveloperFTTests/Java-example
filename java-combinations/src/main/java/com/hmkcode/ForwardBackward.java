@@ -51,7 +51,7 @@ public class ForwardBackward {
 				}				
 			}
 			
-			// backward step
+			// Backward step
 			else{
 				r--;
 				if(r >= 0)
